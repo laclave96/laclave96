@@ -25,6 +25,11 @@
 <img align="center" src="https://github.com/laclave96/both/blob/main/Web%201920%20%E2%80%93%201.jpg">
 
 <h3 align="left"><a href="https://github.com/laclave96/pos-app">- Savent POS (Point of Sale App)</a></h3>
-<img align="left" width="350" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-101859_Savent%20POS.jpg">
-<img align="right" width="350" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-093756_Savent%20POS.jpg">
+<h3 align="left">
+  <img align="left" width="200" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-101859_Savent%20POS.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-093756_Savent%20POS.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-100318_Savent%20POS.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/pos-app/blob/main/screenshots/Screenshot_20230108-093900_Savent%20POS.jpg">
+</h3>
+
 
